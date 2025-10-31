@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Uğur Arslan</h1>
-<h3 align="center">Senior .NET Developer | Backend Developer | Cloud & Distributed Systems</h3>
+<h3 align="center">Senior .NET Developer | Backend Developer |  Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/ugurarslan7">
@@ -11,11 +11,11 @@
 
 ### 🧑‍💻 About Me
 - 🎯 **Senior .NET Developer** with **9+ years of experience** in enterprise application development.  
-- 🧠 Specialized in **Microservices**, **Real-Time Data Processing**, and **Distributed Architectures**.  
+- 🧠 Specialized in **Web Api**, **Microservices**, **Real-Time Data Processing**, and **Distributed Architectures**.  
 - 🏭 Experienced in **manufacturing, automation, and industrial software** solutions.  
 - 💬 Passionate about **Clean Architecture**, **CQRS**, **DDD**, and **performance optimization**.  
-- 🌍 Based in **Bursa, Türkiye** — open to **remote or hybrid** opportunities.  
-- 📫 **ugurarslan8@hotmail.com**
+- 🌍 Based in **Bursa, Türkiye**
+- 📫 Reach me at: **ugrarslan7@gmail.com**
 
 ---
 
@@ -67,4 +67,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/u%C4%9Fur-a-456a3ab8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/ugurarslan7"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+  <a href="https://stackoverflow.com/users/your-id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="30" width="40" /></a>
 </p>
