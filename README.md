@@ -35,7 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 
   <!-- LINQ (C#) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linqpad.svg" width="40" height="40" alt="LINQ"/>
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="40" height="40" alt="LINQ"/>
+
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/>
