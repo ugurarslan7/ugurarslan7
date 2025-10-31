@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Uğur Arslan</h1>
-<h3 align="center">Senior .NET Developer | Microservices | Angular | Cloud & Distributed Systems</h3>
+<h3 align="center">Senior .NET Developer | Backend Developer | Cloud & Distributed Systems</h3>
 
 <p align="center">
   <a href="https://github.com/ugurarslan7">
@@ -46,29 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
 </p>
 
----
 
-### 🏢 Work Experience Highlights
-- **Martur Fompak (2023–Present)** → Developed microservices-based quality control system (RabbitMQ + .NET Core) processing **1M+ images/month** with <0.5% error rate.  
-- **Prysmian Group (2022–2023)** → Built barcode & maintenance tracking systems, improving **efficiency by 40%**.  
-- **Gökçelik A.Ş. (2020–2022)** → Created real-time monitoring and suggestion platforms, improving employee efficiency by **50%**.  
-- **Bursalı Textile (2018–2020)** → Streamlined supply chain & waste management systems, **reducing operational costs by 30%**.  
-- **BİTEG (2016–2018)** → Implemented HR automation & Kanban systems, improving **productivity by 60%**.  
-
----
-
-### 🎓 Education
-- 🎓 **Marmara University** — M.Sc. in Engineering Management (2019)  
-- 🎓 **Süleyman Demirel University** — B.Sc. in Computer Engineering (2016)  
-
----
-
-### 🧾 Certificates
-- 🧩 Microservices with .NET 8 (2024)  
-- 🧱 .NET 8 Microservices: DDD, CQRS, Vertical & Clean Architecture (2025)  
-- ⚡ Agile Fundamentals (In Progress – 2025)  
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
