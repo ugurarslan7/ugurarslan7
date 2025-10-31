@@ -11,7 +11,7 @@
 - 💻 Passionate about **.NET, C#, and scalable backend architectures**
 - 🧩 Currently improving my skills in **Microservices & Cloud Deployments**
 - 🌍 Based in **Bursa, Türkiye**
-- 📫 Reach me at: **ugurarslan.dev@gmail.com**
+- 📫 Reach me at: **ugrarslan7@gmail.com**
 
 ---
 
