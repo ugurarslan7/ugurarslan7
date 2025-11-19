@@ -61,11 +61,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ugurarslan7&theme=tokyonight&margin-w=10" />
 </p>
 
----
-
-### 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/u%C4%9Fur-a-456a3ab8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-  <a href="https://github.com/ugurarslan7"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
-  <a href="https://stackoverflow.com/users/your-id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="30" width="40" /></a>
-</p>
+ 
